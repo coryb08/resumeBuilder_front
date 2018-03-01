@@ -2,6 +2,7 @@ import React from "react";
 import "../resume.css";
 import JobRender2 from "./JobRender2";
 import EducationRender2 from "./EducationRender2";
+import "../App.css";
 
 const RenderPage2 = props => {
   console.log("in render 2", props.resume)
