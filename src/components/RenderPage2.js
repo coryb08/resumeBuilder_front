@@ -18,7 +18,7 @@ const RenderPage2 = props => {
 
 
 
-      <div>
+      <div className="render1Grid">
         <br></br>
         <div className="leftAlign">
           <button onClick={backHome} className="ui button gray">{'< Back'}</button>
